@@ -15,5 +15,5 @@ Lackfi János Kreatív-írás tanfolyamára készített műveim.
 
 ### 2023 - 1. félév (tavasz)
 
-- [TEMATIKA](00.tematika.md)
+- [TEMATIKA](2023.1/00.tematika.md)
 - [04 - Légypapír](2023.1/04.legypapir.md) ([FB](https://www.facebook.com/groups/527339801282556/posts/1172435983439598/))
