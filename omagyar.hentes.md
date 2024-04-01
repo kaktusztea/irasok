@@ -1,8 +1,9 @@
-A HENTES (2008.12.18)
+## A HENTES
+(2008.12.18)
 
-  -- Novella az Ómagyar bloghoz
+_Novella az Ómagyar bloghoz_
 
-
+---
 \- "Most már tuti, hogy kiszúrták..." - ez volt az első gondolatom a beszélgetés első pár mondata után.\
 Vártam a kommandósokat, de valamiért csak nem akaróztak jönni. Lapátkezemben az aprócska tőrök... nevetségesnek tűntek egy géppisztolyos egység ellen. Lőfegyvert nem tartottam otthon, túl kockázatos lett volna, a lebukás számomra rosszabb lett volna mindennél.
 A katonákat foglyul ejtik, a magamfajtákat viszont...
