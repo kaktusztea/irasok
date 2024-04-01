@@ -17,3 +17,14 @@ Lackfi János Kreatív-írás tanfolyamára készített műveim.
 
 - [TEMATIKA](2023.1/00.tematika.md)
 - [04 - Légypapír](2023.1/04.legypapir.md) ([FB](https://www.facebook.com/groups/527339801282556/posts/1172435983439598/))
+
+---
+
+### Ómagyar
+
+Az [Ómagyar blog](https://omagyar.blog.hu/) univerzumában játszódó írás. A mai Esztergom városa egy reggelen a kelta korban találja magát, körülötte minden erdő és vad törzsek támadják.
+
+Az alábbi írás egy Esztergomban élő szlovák kém szemszögéből mutatja be az első nap eseményeit.
+
+ - [A Hentes](omagyar.hentes.md)
+ 
