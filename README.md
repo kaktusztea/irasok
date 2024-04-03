@@ -26,5 +26,5 @@ Az [Ómagyar blog](https://omagyar.blog.hu/) univerzumában játszódó írás. 
 
 Az alábbi írás egy Esztergomban élő szlovák kém szemszögéből mutatja be az első nap eseményeit.
 
- - [A Hentes](omagyar.hentes.md)
+[A Hentes](omagyar.hentes.md)
  
