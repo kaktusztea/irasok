@@ -21,7 +21,7 @@ Lackfi János Kreatív-írás tanfolyamára készített műveim.
 ---
 # Ómagyar
 
-Az [Ómagyar blog](https://omagyar.blog.hu/) univerzumában játszódó írás. A mai Esztergom városa egy reggelen a kelta korban találja magát, körülötte minden erdő és vad törzsek támadják.
+Az [Ómagyar blog](https://omagyar.blog.hu/) univerzumában játszódó írás. A mai Esztergom városa egy reggelen a kelta korban találja magát, körülötte a települések helyett sűrű erdő - tele vad, harcias törzsekkel.
 
 Az alábbi írás egy Esztergomban élő szlovák kém szemszögéből mutatja be az első nap eseményeit.
 
