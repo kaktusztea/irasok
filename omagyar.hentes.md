@@ -105,7 +105,7 @@ A küllemével viszont szöges ellentétben állt a hangja és viselkedése, mer
 \- "Nem szokt..."\
 \- "Jó. Indulás!"
 
-Amíg a part felé kocogtunk, láttam, hogy két üteget állítanak fel a hídfőnél a szlovák oldal felé irányozva. Csikorgattam a fogaimat, de aztán rájöttem, hogy még jól is jártam: ők visznek át, ahol már könnyedén (vagy legalább is sokkal könnyebben) léphetek kapcsolatba a hazaiakkal. Ha közben le nem lőnek persze.\
+Amíg a part felé kocogtunk, láttam, hogy két üteget állítanak fel a hídfőnél a szlovák oldal felé irányozva. Csikorgattam a fogaimat, de aztán rájöttem, hogy még jól is jártam: ők visznek át, ahol már könnyedén (vagy legalább is sokkal könnyebben) léphetek kapcsolatba a hazaiakkal. Ha közben le nem lőnek persze.
 
 Felbőgött csónak Yamaha motorja és ütemesen szeltük át a két part közti távot. A túloldalt sűrű erdő... Erdő!
 
