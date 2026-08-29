@@ -21,7 +21,7 @@ Lackfi János Kreatív-írás tanfolyamára készített műveim.
 ---
 # Ómagyar
 
-[A Hentes](omagyar.hentes.md)
+- [A Hentes](omagyar.hentes.md)
 
 Az [Ómagyar blog](https://omagyar.blog.hu/) univerzumában játszódó írás. A mai Esztergom városa egy reggelen a kelta korban találja magát, körülötte a települések helyett sűrű erdő - tele vad, harcias törzsekkel.
 
